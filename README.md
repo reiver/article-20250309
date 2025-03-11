@@ -80,4 +80,22 @@ For example…
 
 **GreatApe** is a conversations platform for the Fediverse, and decentralized social-media.
 
+-----
 
+Here is an _example_ of _myself_ and `atomicpoet` (Chris Trottier) using Great Ape back in October 2023.
+
+Here, we were using GreatApe to do a **live video podcast**.
+
+Now, you don't see it in this image, but —
+
+We can also _invite_ people _watching_ in the _audience_ to _join the video conversation_.
+
+-----
+
+_Another thing_ some people _might know me from_ is — [SpaceHost](https://spacehost.one/).
+
+And, for _this story_ — **SpaceHost** is probably the _more important thing_ —
+
+As it _partially motivates_ what I am _soon_ going to show you.
+
+-----
