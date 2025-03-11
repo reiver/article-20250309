@@ -50,5 +50,34 @@ I have _been in Tech_ for — a long time.
 Depending on _how you count it_ — _more-than_ 30 years.
 And, I have **a lot** of **experience** with **social-media** from an **engineering**, **product**, **enterprise**, and **company** point-of-view.
 
+-----
+
+_Some of you_ might know _me_ from …
+
+-----
+
+… The Fediverse!
+
+This is my `@reiver@mastodon.social` account
+
+Where I talk **a lot** about:
+
+(...you guessed it…)
+
+* **The Fediverse**
+
+I ALSO talk about:
+
+* other **decentralized social-media**
+
+And, I talk about **the Fediverse related projects** I work on, too.
+
+For example…
+
+-----
+
+… GreatApe!
+
+**GreatApe** is a conversations platform for the Fediverse, and decentralized social-media.
 
 
