@@ -4,7 +4,7 @@ NOTE: This article is a written adaptation of the presentation I delivered at th
 
 Hello everyone.
 
-I only have **15 minutes** for _this presentation (including questions) —  so, let's get started.
+I only have **15 minutes** for _this presentation_ (including questions) —  so, let's get started.
 
 **Thank you** for attending the **Developer Meetup** at the **Fediverse House** at **SXSW 2025**.
 
