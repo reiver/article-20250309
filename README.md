@@ -30,5 +30,25 @@ But — a story needs a _beginning_.
 
 So, I will start with an _introduction_.
 
+-----
+
+I am Charles Iliya Krempeaux.
+
+I have been:
+
+* a **product* leader,
+* an **engineering** leader, and
+* a **founder**.
+
+Because we a short on time – _here is_ just one _highlight_ from my career:
+
+I was **one of the first engineers** at the **social-media** company **Hootsuite**.
+Hootsuite was at one time **the most popular Twitter app** in the world.
+Later, it _also_ became a Facebook, Instagram, Google+, YouTube, LinkedIn, and everything else social-media app.
+
+I have _been in Tech_ for — a long time.
+Depending on _how you count it_ — _more-than_ 30 years.
+And, I have **a lot** of **experience** with **social-media** from an **engineering**, **product**, **enterprise**, and **company** point-of-view.
+
 
 
