@@ -36,7 +36,7 @@ I am Charles Iliya Krempeaux.
 
 I have been:
 
-* a **product* leader,
+* a **product** leader,
 * an **engineering** leader, and
 * a **founder**.
 
