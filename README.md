@@ -99,3 +99,26 @@ And, for _this story_ — **SpaceHost** is probably the _more important thing_ �
 As it _partially motivates_ what I am _soon_ going to show you.
 
 -----
+
+**But, what is SpaceHost** —
+
+We need to know this for the story.
+
+**What is SpaceHost** —
+
+To _regular people_, I tend to **describe SpaceHost as** —
+
+> **SpaceHost is an _app-directory_ for the _Fediverse_**
+
+Or maybe –-
+
+> **SpaceHost is an _app-directory_ for the _decentralized social-media_**
+
+To people who are a little more _tech savvy_ — I might describe SpaceHost as —
+
+> **SpaceHost is _fully-managed hosting_ for _all the Fediverse_**
+
+As far as I know –
+
+* SpaceHost was **the second hosting-company in the Fediverse**, after Masto.Host, and
+* SpaceHost is **the first hosting-company in the Fediverse to _try to_ offer _all the (other) Fediverse software other than Mastodon_** –  although, we _also offer Mastodon_.
