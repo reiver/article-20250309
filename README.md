@@ -163,7 +163,7 @@ Here is the answer —
 
 And, in particular —
 
-**The _storage drive_ of _Fedivere servers filling-up_ – due to _continued cachiing_.
+**The _storage drive_ of _Fedivere servers filling-up_ – due to _continued caching_**.
 
 -----
 
