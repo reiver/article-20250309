@@ -180,3 +180,31 @@ It basically means — **temporarily storing things**.
 So _what_ is being _temporarily stored_?
 
 -----
+
+With _Fediverse servers_, they _temporarily store_ **user-data from other servers**.
+
+* posts,
+* media from posts,
+* user-profile text,
+* avatar images,
+* header images,
+* _and more_.
+
+Now, _temporarily storing_ things (_caching_) is normal.
+
+It is a _core technique_ with _computer programming_ & (other) _engineering_ –
+
+Everything from **the CPU** to **the Web**, to **applications** all cache.
+And, would _not_ work without caching.
+
+So –
+
+* _caching_ is _important_.
+* _caching_ makes things _work_.
+
+But –
+
+* _caching_ is a _difficult_ to _do well_.
+
+So – it is _not_ surprising that _caching_ is _challenging_ for _Fediverse servers_ to do well.
+
