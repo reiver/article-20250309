@@ -122,3 +122,61 @@ As far as I know –
 
 * SpaceHost was **the second hosting-company in the Fediverse**, after Masto.Host, and
 * SpaceHost is **the first hosting-company in the Fediverse to _try to_ offer _all the (other) Fediverse software other than Mastodon_** –  although, we _also offer Mastodon_.
+
+-----
+
+We _learned_ a number of things from _our experience_ with hosting so many people’s _Fediverse servers_
+
+Here is **_one thing_ we learned** —
+
+-----
+
+We learned what _seems to be the **number 1 cause** of Fediverse servers crashing_.
+
+Before you read what that is – take a guess at what you think it might be.
+(Scroll down once you have your answer.)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
+Here is the answer —
+
+**caching**
+
+And, in particular —
+
+**The _storage drive_ of _Fedivere servers filling-up_ – due to _continued cachiing_.
+
+-----
+
+Some of you might ask — 
+
+* What is being CACHED?
+* Some of you might even be ask, WHAT IS CACHING?
+
+Those are both _good questions_ 🙂
+
+**Caching** is a _technical term_ — in _computer science_, _computer hardware engineering_, and _software engineering_.
+It basically means — **temporarily storing things**.
+
+So _what_ is being _temporarily stored_?
+
+-----
