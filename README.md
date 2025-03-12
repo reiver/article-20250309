@@ -208,3 +208,54 @@ But –
 
 So – it is _not_ surprising that _caching_ is _challenging_ for _Fediverse servers_ to do well.
 
+-----
+
+At SpaceHost we wrestled with this problem.
+
+Should we _just automatically clear the cache_ for our customers?
+
+Or, should we _tell them_ their _storage drive_ is filling up – and, _let them decide_.
+
+The challenge is – _clearing the cache_ affects _user-experience_.
+It can “break” search.
+It can "break" the home-feed.
+
+So –
+
+-----
+
+At first – we decided to just _e-mail_ our _customers_ to _tell them_ that _their storage drives_ were _filling-up_ and _let then decide_.
+
+What we found-out was that –
+
+Most customers _seemed to never notice_ the _e-mail_ we sent them.
+
+In hindsight, that _was not_ a good strategy.
+
+So –
+
+-----
+
+This was a problem!
+
+It created a _ba experience_.
+
+Their server got SLOW.
+And sometimes crashed.
+
+It doesn't matter if we sent them an e-mail or not.
+It wasn't being noticed.
+And, they were _unhappy_.
+
+Which made me unhappy.
+So –
+
+-----
+
+We changed _our strategy_.
+
+We started _automatically clearing_ our customers _caches_.
+
+This is _better-than_ _servers crashing_, but – there is still a problem –
+
+-----
