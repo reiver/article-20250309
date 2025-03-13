@@ -1,10 +1,15 @@
 # A Lesson Learned From Hosting The Fediverse: A SpaceHost Story
 
+You learn a lot by hosting the Fediverse.
+We learned the **_number 1 thing_** that crashes Fediverse servers — Mastodon, Misskey, Pixelfed, PeerTube, _all of them_.
+It isn't what you think.
+Here is how we fixed it — and created breakthrough innovation.
+
 NOTE: This article is a written adaptation of the presentation I delivered at the **Fediverse House** during **SXSW 2025**.
 
 Hello everyone.
 
-I only have **15 minutes** for _this presentation_ (including questions) —  so, let's get started.
+I only have **15 minutes** for _this presentation_ (including questions) — so, let's get started.
 
 **Thank you** for attending the **Developer Meetup** at the **Fediverse House** at **SXSW 2025**.
 
