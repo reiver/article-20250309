@@ -7,7 +7,7 @@ The best presentations _tell a story_ — this is a story of our journey **hosti
 * How we solved the problem.
 * And, an unexpected _invention_ that could _reshape the Social Web_.
 
-If you care about the Fediverse, then this is a story for you.
+If you care about the Fediverse, then _this is a story for you_.
 
 <mark>NOTE: This article is a written adaptation of the presentation I delivered at the **Fediverse House** during **SXSW 2025**.</mark>
 
@@ -18,22 +18,17 @@ So, I will start with an _introduction_.
 
 I am **Charles Iliya Krempeaux**.
 
-I have been:
+I have been a **product** leader, an **engineering** leader, and a **founder**.
 
-* a **product** leader,
-* an **engineering** leader, and
-* a **founder**.
+But, let’s skip the long bio — here is just one highlight from my career:
 
-To keep things short – _here is_ just one _highlight_ from my career:
-
-I was **one of the first engineers** at the **social-media** company **Hootsuite**.
+**I was one of the first engineers** at the **social-media** company **Hootsuite**.
 Hootsuite was at one time **the most popular Twitter app** in the world.
-Later, it _also_ became a Facebook, Google+, Instagram, LinkedIn, TikTok, YouTube, WhatsApp, and _everything else_ social-media app.
+Later, Hootsuite expanded to _also_ became a Facebook, Google+, Instagram, LinkedIn, TikTok, YouTube, WhatsApp, and _every other social-media_ app.
 
-I have _been in Tech_ for — a long time.
-Depending on _how you count it_ — _more-than_ 30 years.
+I have _been in Tech_ for **_more-than_ 30 years**.
 
-And, I have **a lot** of **experience** with **social-media** from an **engineering**, **product**, **enterprise**, and **company** point-of-view.
+And, from **engineering**, to **product**, to **enterprise**, and to **company** — I have **a lot** of **experience** with **social-media**
 
 ## Me on the Fediverse
 
