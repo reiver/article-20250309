@@ -259,3 +259,65 @@ We started _automatically clearing_ our customers _caches_.
 This is _better-than_ _servers crashing_, but – there is still a problem –
 
 -----
+
+Search is _sort of_ _broken_ for them.
+
+So –
+
+-----
+
+We need to _separate_ **search** from the **back-end server**.
+
+We need to make it so **accumulating user-data** doesn’t **crash** the **back-end**. 
+
+In fact – multiple **back-end servers** could **share** the same **search server** to _reduce costs_.
+
+We also need a **_Fediverse API_ for _search_**.
+
+Here is the thing – **we already built a lot of it**.
+
+-----
+
+We started working on this back in August 2024.
+
+In fact – we start working on **search** plus **custom feeds** back in AUGUST 2024.
+
+I didn’t mentioned **custom feeds** yet, BUT I am mentioning it now.
+
+But back to **search** –
+
+Because no **Fediverse software** uses this **search API** yet –
+
+We created a **real-time search-engine** so you can see it _in action_.
+
+
+You can try it for yourself at:
+
+https://robin.live/
+
+-----
+
+Now, although RobinLive (https://robin.live/) exists –
+
+The idea is that there would be _multiple **search servers**.
+
+And, not just RobinLive.
+
+That is right – **let's decentralize them**.
+
+RobinLive will be _one of many_.
+
+-----
+
+If you were looking closely at the _previous_ RobinLive screen, you might have noticed that – in addition to showing results from the Fediverse – we were also showing results from Bluesky.
+
+We on the Fediverse have more in common with those on _other decentralized social-networks_ than the _centralized ones_.
+I don't think we are enemies.
+I think we are all fellow-travelers.
+We are all reacting to the same problems (with the Internet, the Web, and social-media) in a similar way — We are just choosing different technologies.
+
+I have my own opinions about the Tech.
+I have my own preferences.
+But –
+
+I want **the user** to **_not_ have to care about** _these differences_.
