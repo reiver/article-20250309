@@ -312,7 +312,9 @@ I want **the user** to **_not_ have to care about** _these differences_.
 
 ## All The DeSo Networks
 
-I think [Danielle Foré](https://mastodon.online/@danirabbit) said it best –
+<img src="danirabbit-post.jpeg" style="width:400px;" />
+
+I think [Danielle Foré](https://mastodon.online/@danirabbit) [said it](https://mastodon.online/@danirabbit/113919277314661343) best –
 
 When talking about **the Fediverse** – she didn’t say "_decentralized_", or "_open-source_", or "_server_", or even mention "_e-mail_".
 She just said –
@@ -323,6 +325,22 @@ She just said –
 
 Thus – users **should not care** about _the differences between_ – the Fediverse, Bluesky, Nostr, and others.
 
----
+## Custom Feeds
+
+I also mentioned – **custom feeds**.
+
+I have been _talking about_ and _meme'ing about_ **Fediverse custom feeds** for a while.
+
+-----
+
+And guess what –
+
+We build a lot of that, too.
+
+In fact — the technology for **real-time search** and **custom feeds** are related.
+
+## What Are Feeds
+
+-----
 
 <mark>**Thank you** **Evan Prodromou** for letting me present at the **Developer Meetup** at the **Fediverse House** at **SXSW 2025**.</mark>
