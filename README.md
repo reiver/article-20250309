@@ -53,6 +53,8 @@ For example…
 
 ## GreatApe
 
+<img src="greatape-logo.png" style="width:400px;" />
+
 … GreatApe!
 
 **GreatApe** is a conversations platform for the Fediverse, and decentralized social-media.
