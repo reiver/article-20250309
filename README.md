@@ -1,43 +1,22 @@
 # A Lesson Learned From Hosting The Fediverse: A SpaceHost Story
 
-You learn a lot by hosting the Fediverse.
-We learned the **_number 1 thing_** that crashes Fediverse servers — Mastodon, Misskey, Pixelfed, PeerTube, _all of them_.
-It isn't what you think.
-Here is how we fixed it — and created breakthrough innovation.
+The best presentations _tell a story_ — this is a story of our journey **hosting the Fediverse** at [SpaceHost](https://spacehost.one):
 
-NOTE: This article is a written adaptation of the presentation I delivered at the **Fediverse House** during **SXSW 2025**.
+* What we tried first.
+* Why it failed.
+* How we solved it.
+* And, an unexpected invention that could reshape the Social Web.
 
-Hello everyone.
+If you care about the Fediverse, this is a story for you.
 
-I only have **15 minutes** for _this presentation_ (including questions) — so, let's get started.
-
-**Thank you** for attending the **Developer Meetup** at the **Fediverse House** at **SXSW 2025**.
-
-And, thank you **Evan Prodromou** for letting me present.
-
------
-
-I think — most _good_ presentations _tell a story_.
-So, I am going to _tell a story_.
-
-This is an **exciting story** about —
-
-Our experience with **hosting the Fediverse** at [SpaceHost](https://spacehost.one/).
-
-* What we first tried.
-* How & why that failed.
-* How we solved this problem.
-* And, how we are going to solve this _even better_.
-
-If **you** _care_ about the Fediverse, then – **this is _a story for you_**.
+<mark>NOTE: This article is a written adaptation of the presentation I delivered at the **Fediverse House** during **SXSW 2025**.</mark>
 
 But — a story needs a _beginning_.
-
 So, I will start with an _introduction_.
 
------
+## Who Am I
 
-I am Charles Iliya Krempeaux.
+I am **Charles Iliya Krempeaux**.
 
 I have been:
 
@@ -45,21 +24,19 @@ I have been:
 * an **engineering** leader, and
 * a **founder**.
 
-Because we a short on time – _here is_ just one _highlight_ from my career:
+To keep things short – _here is_ just one _highlight_ from my career:
 
 I was **one of the first engineers** at the **social-media** company **Hootsuite**.
 Hootsuite was at one time **the most popular Twitter app** in the world.
-Later, it _also_ became a Facebook, Instagram, Google+, YouTube, LinkedIn, and everything else social-media app.
+Later, it _also_ became a Facebook, Google+, Instagram, LinkedIn, TikTok, YouTube, WhatsApp, and _everything else_ social-media app.
 
 I have _been in Tech_ for — a long time.
 Depending on _how you count it_ — _more-than_ 30 years.
 And, I have **a lot** of **experience** with **social-media** from an **engineering**, **product**, **enterprise**, and **company** point-of-view.
 
------
+## Me on the Fediverse
 
 _Some of you_ might know _me_ from …
-
------
 
 … The Fediverse!
 
@@ -79,7 +56,7 @@ And, I talk about **the Fediverse related projects** I work on, too.
 
 For example…
 
------
+## GreatApe
 
 … GreatApe!
 
@@ -326,3 +303,8 @@ I have my own preferences.
 But –
 
 I want **the user** to **_not_ have to care about** _these differences_.
+
+
+-----
+
+<mark>**Thank you** **Evan Prodromou** for letting me present at the **Developer Meetup** at the **Fediverse House** at **SXSW 2025**.</mark>
