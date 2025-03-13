@@ -315,9 +315,11 @@ I want **the user** to **_not_ have to care about** _these differences_.
 I think [Danielle Foré](https://mastodon.online/@danirabbit) said it best –
 
 When talking about **the Fediverse** – she didn’t say "_decentralized_", or "_open-source_", or "_server_", or even mention "_e-mail_".
-She just said – you can _follow anyone_ from ANY _social-network_.
+She just said –
 
-**I want to make that __as true__ as I can.**
+> you can _follow anyone_ from any _social-network_.
+
+**I want to make that _as true_ as I can.**
 
 Thus – users **should not care** about _the differences between_ – the Fediverse, Bluesky, Nostr, and others.
 
