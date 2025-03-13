@@ -117,7 +117,8 @@ Here is **_one thing_ we learned** —
 We learned what _seems to be the **number 1 cause** of Fediverse servers crashing_ — including Mastodon, Misskey, Pixelfed, and every other type of Fediverse server.
 
 Before you read what that is – guess to yourself what _you think_ it might be.
-(Scroll down once you have your guess.)
+
+(**Scroll down once you have your guess.**)
 
 .
 
