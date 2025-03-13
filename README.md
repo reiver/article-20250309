@@ -83,6 +83,8 @@ As it _partially motivates_ what I am _soon_ going to show you.
 
 ## What Is SpaceHost
 
+<img src="spacehost-2025.png" style="width:400px;" />
+
 **But, what is SpaceHost** —
 
 We need to know this for the story.
