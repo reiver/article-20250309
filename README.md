@@ -1,4 +1,4 @@
-# A Lesson Learned From Hosting The Fediverse: A SpaceHost Story
+# Hosting the Fediverse: The Unexpected Lesson from SpaceHost
 
 The best presentations _tell a story_ — this is a story of our journey **hosting the Fediverse** at [SpaceHost](https://spacehost.one):
 
