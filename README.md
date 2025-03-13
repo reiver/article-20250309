@@ -41,7 +41,7 @@ And, from **engineering**, to **product**, to **enterprise**, and to **company**
 
 ## Me on the Fediverse
 
-_Some of you_ might know _me_ from …
+Some of you might know _me_ from …
 
 <img src="reiver-mastodon-social.png" style="width:400px;" />
 
