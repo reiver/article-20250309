@@ -218,19 +218,20 @@ So –
 
 This was a problem!
 
-It created a _ba experience_.
+It created a _bad experience_.
 
-Their server got SLOW.
-And sometimes crashed.
+Their server got _slow_.
+And sometimes _crashed_.
 
 It doesn't matter if we sent them an e-mail or not.
 It wasn't being noticed.
 And, they were _unhappy_.
 
-Which made me unhappy.
+Which made us unhappy.
+We wanted to fix this.
 So –
 
------
+<img src="spacehost-chat-alert.png" style="width:400px;" />
 
 We changed _our strategy_.
 
@@ -244,7 +245,7 @@ Search is _sort of_ _broken_ for them.
 
 So –
 
------
+<img src="search-server.png" style="width:400px;" />
 
 We need to _separate_ **search** from the **back-end server**.
 
@@ -256,20 +257,21 @@ We also need a **_Fediverse API_ for _search_**.
 
 Here is the thing – **we already built a lot of it**.
 
------
-
 We started working on this back in August 2024.
 
-In fact – we start working on **search** plus **custom feeds** back in AUGUST 2024.
+In fact – we start working on **search** plus **custom feeds** back in August 2024.
 
-I didn’t mentioned **custom feeds** yet, BUT I am mentioning it now.
+I didn’t mentioned **custom feeds** yet, but I am mentioning it now.
 
 But back to **search** –
+
+## RobinLive
 
 Because no **Fediverse software** uses this **search API** yet –
 
 We created a **real-time search-engine** so you can see it _in action_.
 
+<img src="robinlive-example.png" style="width:400px;" />
 
 You can try it for yourself at:
 
