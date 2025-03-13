@@ -5,9 +5,9 @@ The best presentations _tell a story_ — this is a story of our journey **hosti
 * What we tried first.
 * How & why that failed.
 * How we solved the problem.
-* And, an unexpected invention that could reshape the Social Web.
+* And, an unexpected _invention_ that could _reshape the Social Web_.
 
-If you care about the Fediverse, this is a story for you.
+If you care about the Fediverse, then this is a story for you.
 
 <mark>NOTE: This article is a written adaptation of the presentation I delivered at the **Fediverse House** during **SXSW 2025**.</mark>
 
