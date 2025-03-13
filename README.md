@@ -35,7 +35,7 @@ have used the tool I created with others.
 
 I have _been in Tech_ for **_more-than_ 30 years**.
 
-And, from **engineering**, to **product**, to **enterprise**, and to **company** — I have **a lot** of **experience** with **social-media**
+And, from **engineering**, to **product**, to **enterprise**, and to **company** — I have **a lot** of **experience** with **social-media**.
 
 ## Me on the Fediverse
 
