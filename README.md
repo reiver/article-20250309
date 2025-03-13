@@ -288,6 +288,11 @@ That is right – **let's decentralize them**.
 
 RobinLive will be _one of many_.
 
+**It is difficult to overstate the significance _decentralized search_**
+–
+not only for the Social Web but for the (classical) Web and the Internet as a whole.
+Decentralization will be just as transformative for _search_ and the Web as it has been for social-media.
+
 ## DeSo Search
 
 <img src="robinlive-deso-search.png" style="width:400px;" />
