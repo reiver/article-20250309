@@ -77,9 +77,7 @@ Now, you don't see it in this image, but — we can also _invite_ people _watchi
 
 _Another thing_ some people _might know me from_ is — [SpaceHost](https://spacehost.one/).
 
-And, for _this story_ — **SpaceHost** is probably the _more important thing_ —
-
-As it _partially motivates_ what I am _soon_ going to show you.
+And, for _this story_ — **SpaceHost** is probably the _more important thing_ — as it _partially motivates_ what I am _soon_ going to show you.
 
 ## What Is SpaceHost
 
