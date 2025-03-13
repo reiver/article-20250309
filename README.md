@@ -43,7 +43,7 @@ _Some of you_ might know _me_ from …
 
 … The Fediverse!
 
-This is my `@reiver@mastodon.social` account.
+This is my [`@reiver@mastodon.social`](https://mastodon.social/@reiver) account.
 
 Where I talk **a lot** about — _you guessed it_ — **the Fediverse**.
 I _also_ talk about — other **decentralized social-media**.
