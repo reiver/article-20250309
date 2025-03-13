@@ -61,7 +61,7 @@ For example…
 
 <img src="greatape-screenshot.jpeg" style="width:400px;" />
 
-Here is an _example_ of _myself_ and `atomicpoet` (Chris Trottier) using GreatApe back in October 2023.
+Here is an _example_ of _myself_ and [`atomicpoet`](https://atomicpoet.org/@atomicpoet) (Chris Trottier) using GreatApe back in October 2023.
 
 Here, we were using GreatApe to do a **live video podcast**.
 
