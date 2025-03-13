@@ -339,6 +339,55 @@ In fact — the technology for **real-time search** and **custom feeds** are rel
 
 ## What Are Feeds
 
+The **feed** most people are probably familiar with is – the **home-feed**.
+
+On **Mastodon** – the _home-feed_ uses a **simple algorithm** – **reverse chron**.
+This (_reverse chron_) is what some people _inaccurately_ call – **no algorithm**.
+
+A **custom feed** lets you pick an **alternative algorithm**.
+
+For example –
+
+What if – you wanted a _feed_ that _only showed_ posts from _people you follow_ _who do not post very often_.
+(This existed as a 3rd party apps for Twitter decades ago.)
+
+Or, what if – you want a _feed_ that _only shows_ posts from _mutuals_.
+
+Or, what if – you wanted a _feed_ that _only shows_ posts THAT ARE POPULAR with people YOU FOLLOW
+
+Etc.
+
+## RobinFeed
+
+## Bluesky Custom Feeds
+
+## Fediverse Custom Feeds
+
+## Thank You
+
+Thank you for reading all that.
+To summarize:
+
+You can try the real-time search-engine at:
+
+* https://robin.live/
+
+Hopefully, there will eventually be other search-engines like it – so that we can **decentralize search**.
+
+And – although _more work needs to be done_ to support _Fediverse custom feeds_ –
+
+You can try out the **custom feed generator** at:
+
+* https://robinfeed.com/
+
+And – if you want to take a look at what motivated this story – you can give **SpaceHost** a try at:
+
+* https://spacehost.one/
+
+If you would like to _talk to me more_ about any of this, or just want to _follow along_ – you can **follow me at** –
+
+* [`@reiver@mastodon.social`](https://mastodon.social/@reiver)
+
 -----
 
 <mark>**Thank you** **Evan Prodromou** for letting me present at the **Developer Meetup** at the **Fediverse House** at **SXSW 2025**.</mark>
