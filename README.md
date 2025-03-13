@@ -331,11 +331,9 @@ I also mentioned – **custom feeds**.
 
 I have been _talking about_ and _meme'ing about_ **Fediverse custom feeds** for a while.
 
------
+<img src="custom-feeds.png" style="width:400px;" />
 
-And guess what –
-
-We build a lot of that, too.
+And, guess what – we already built a lot of that, too.
 
 In fact — the technology for **real-time search** and **custom feeds** are related.
 
