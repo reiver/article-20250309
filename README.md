@@ -174,6 +174,8 @@ With _Fediverse servers_, they _temporarily store_ **user-data from other server
 * header images,
 * _and more_.
 
+<img src="hard-problems-in-computer-programming.png" style="width:400px;" />
+
 Now, _temporarily storing_ things (_caching_) is normal.
 
 It (caching) is a _core technique_ with _computer programming_ & (other) _engineering_ –
@@ -185,7 +187,7 @@ So – _caching_ is _important_, _caching_ makes things _work_, but – _caching
 
 So – it is _not_ surprising that _caching_ is _challenging_ for _Fediverse servers_ to do well.
 
------
+## Round One
 
 At SpaceHost we wrestled with this problem.
 
@@ -211,7 +213,7 @@ In hindsight, that _was not_ a good strategy.
 
 So –
 
------
+## Round Two
 
 This was a problem!
 
@@ -235,7 +237,7 @@ We started _automatically clearing_ our customers _caches_.
 
 This is _better-than_ _servers crashing_, but – there is still a problem –
 
------
+## Round Three
 
 Search is _sort of_ _broken_ for them.
 
