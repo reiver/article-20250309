@@ -55,7 +55,7 @@ For example…
 
 ## GreatApe
 
-<img src="greatape-logo.png" style="width:400px;" />
+<img src="greatape-logo.png" style="width:200px;" />
 
 … GreatApe!
 
