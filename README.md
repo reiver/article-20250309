@@ -16,6 +16,8 @@ So, I will start with an _introduction_.
 
 ## Who Am I
 
+<img src="charles-intro.png" style="width:400px;" />
+
 I am **Charles Iliya Krempeaux**.
 
 I have been a **product leader**, an **engineering leader**, and a **founder**.
