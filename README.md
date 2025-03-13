@@ -32,28 +32,23 @@ Later, it _also_ became a Facebook, Google+, Instagram, LinkedIn, TikTok, YouTub
 
 I have _been in Tech_ for — a long time.
 Depending on _how you count it_ — _more-than_ 30 years.
+
 And, I have **a lot** of **experience** with **social-media** from an **engineering**, **product**, **enterprise**, and **company** point-of-view.
 
 ## Me on the Fediverse
 
 _Some of you_ might know _me_ from …
 
+<img src="reiver-mastodon-social.png" style="width:400px;" />
+
 … The Fediverse!
 
-This is my `@reiver@mastodon.social` account
+This is my `@reiver@mastodon.social` account.
 
-Where I talk **a lot** about:
-
-(...you guessed it…)
-
-* **The Fediverse**
-
-I ALSO talk about:
-
-* other **decentralized social-media**
+Where I talk **a lot** about — _you guessed it_ — **the Fediverse**.
+I _also_ talk about — other **decentralized social-media**.
 
 And, I talk about **the Fediverse related projects** I work on, too.
-
 For example…
 
 ## GreatApe
