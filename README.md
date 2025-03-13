@@ -22,7 +22,7 @@ I am **Charles Iliya Krempeaux**.
 
 I have been a **product leader**, an **engineering leader**, and a **founder**.
 
-But, let’s skip the long bio — here is just one highlight from my career:
+But, let’s skip the long bio — here is _just one_ highlight from my career:
 
 **I was one of the first engineers** at **Hootsuite**
 —
