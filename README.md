@@ -154,7 +154,7 @@ And, in particular —
 Some of you might ask — 
 
 * **What is being _cached_**?
-* Some of you might even be ask, **_what is caching_**?
+* Some of you might even be ask, **what is _caching_**?
 
 Those are both _good questions_ 🙂
 
@@ -163,7 +163,7 @@ It basically means — **temporarily storing things**.
 
 So _what_ is being _temporarily stored_?
 
------
+<img src="fediverse-caching.png" style="width:400px;" />
 
 With _Fediverse servers_, they _temporarily store_ **user-data from other servers**.
 
