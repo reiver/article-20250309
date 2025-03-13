@@ -18,13 +18,20 @@ So, I will start with an _introduction_.
 
 I am **Charles Iliya Krempeaux**.
 
-I have been a **product** leader, an **engineering** leader, and a **founder**.
+I have been a **product leader**, an **engineering leader**, and a **founder**.
 
 But, let’s skip the long bio — here is just one highlight from my career:
 
-**I was one of the first engineers** at the **social-media** company **Hootsuite**.
-Hootsuite was at one time **the most popular Twitter app** in the world.
-Later, Hootsuite expanded to _also_ became a Facebook, Google+, Instagram, LinkedIn, TikTok, YouTube, WhatsApp, and _every other social-media_ app.
+**I was one of the first engineers** at **Hootsuite**
+—
+a **social-media** company which at one time **the most popular Twitter app** in the world.
+Over time, Hootsuite expanded to _also_ became a **Facebook**, **Google+**, **Instagram**, **LinkedIn**, **TikTok**, **YouTube**, **WhatsApp**, and _every other social-media platform_ app.
+Everyone from
+the U.S. White House,
+to IBM,
+to tens-of-millions of people all over the world,
+and 80% of fortune 1,000 companies
+have used the tool I created with others.
 
 I have _been in Tech_ for **_more-than_ 30 years**.
 
