@@ -71,6 +71,8 @@ Now, you don't see it in this image, but — we can also _invite_ people _watchi
 
 ## SpaceHost
 
+<img src="spacehost.png" style="width:400px;" />
+
 _Another thing_ some people _might know me from_ is — [SpaceHost](https://spacehost.one/).
 
 And, for _this story_ — **SpaceHost** is probably the _more important thing_ —
