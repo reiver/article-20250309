@@ -114,10 +114,10 @@ We _learned_ a number of things from _our experience_ with hosting so many peopl
 
 Here is **_one thing_ we learned** —
 
-We learned what _seems to be the **number 1 cause** of Fediverse servers crashing_.
+We learned what _seems to be the **number 1 cause** of Fediverse servers crashing_ — including Mastodon, Misskey, Pixelfed, and every other type of Fediverse server.
 
-Before you read what that is – take a guess at what you think it might be.
-(Scroll down once you have your answer.)
+Before you read what that is – guess to yourself what _you think_ it might be.
+(Scroll down once you have your guess.)
 
 .
 
@@ -142,18 +142,18 @@ Before you read what that is – take a guess at what you think it might be.
 
 Here is the answer —
 
-**caching**
+**Caching**
 
 And, in particular —
 
 **The _storage drive_ of _Fedivere servers filling-up_ – due to _continued caching_**.
 
------
+## Caching
 
 Some of you might ask — 
 
-* What is being CACHED?
-* Some of you might even be ask, WHAT IS CACHING?
+* **What is being _cached_**?
+* Some of you might even be ask, **_what is caching_**?
 
 Those are both _good questions_ 🙂
 
