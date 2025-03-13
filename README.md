@@ -50,7 +50,7 @@ Some of you might know _me_ from …
 This is my [`@reiver@mastodon.social`](https://mastodon.social/@reiver) account.
 
 Where I talk **a lot** about — _you guessed it_ — **the Fediverse**.
-I _also_ talk about — other **decentralized social-media**.
+I _also_ talk about — other **decentralized social-media** (**DeSo**) — including **Bluesky**, **Farcaster**, **Nostr**, and others.
 
 And, I talk about **the Fediverse related projects** I work on, too.
 For example…
