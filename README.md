@@ -279,9 +279,7 @@ https://robin.live/
 
 <img src="decentralize-all-the-things.png" alt="Decentralize All The Things" style="width:400px;" />
 
-Now, although [RobinLive](https://robin.live/) exists –
-
-The idea is that there would be _multiple_ **search servers**.
+Now, although [RobinLive](https://robin.live/) exists – the idea is that there would be _multiple_ **search servers**.
 
 And, not just RobinLive.
 
