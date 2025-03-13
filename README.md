@@ -176,19 +176,12 @@ With _Fediverse servers_, they _temporarily store_ **user-data from other server
 
 Now, _temporarily storing_ things (_caching_) is normal.
 
-It is a _core technique_ with _computer programming_ & (other) _engineering_ –
+It (caching) is a _core technique_ with _computer programming_ & (other) _engineering_ –
 
 Everything from **the CPU** to **the Web**, to **applications** all cache.
 And, would _not_ work without caching.
 
-So –
-
-* _caching_ is _important_.
-* _caching_ makes things _work_.
-
-But –
-
-* _caching_ is a _difficult_ to _do well_.
+So – _caching_ is _important_, _caching_ makes things _work_, but – _caching_ is a _difficult_ to _do well_.
 
 So – it is _not_ surprising that _caching_ is _challenging_ for _Fediverse servers_ to do well.
 
