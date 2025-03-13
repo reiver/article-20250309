@@ -277,19 +277,22 @@ You can try it for yourself at:
 
 https://robin.live/
 
------
+## Decentralized Search
 
-Now, although RobinLive (https://robin.live/) exists –
+<img src="decentralize-all-the-things.png" alt="Decentralize All The Things" style="width:400px;" />
 
-The idea is that there would be _multiple **search servers**.
+Now, although [RobinLive](https://robin.live/) exists –
+
+The idea is that there would be _multiple_ **search servers**.
 
 And, not just RobinLive.
 
 That is right – **let's decentralize them**.
+**Let's decentralized search**.
 
 RobinLive will be _one of many_.
 
------
+## DeSo Search
 
 If you were looking closely at the _previous_ RobinLive screen, you might have noticed that – in addition to showing results from the Fediverse – we were also showing results from Bluesky.
 
