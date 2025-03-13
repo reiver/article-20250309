@@ -249,7 +249,7 @@ We need to _separate_ **search** from the **back-end server**.
 
 We need to make it so **accumulating user-data** doesn’t **crash** the **back-end**. 
 
-In fact – multiple **back-end servers** could **share** the same **search server** to _reduce costs_.
+In fact – multiple **back-end servers** could **share** the same **search-server** to _reduce costs_.
 
 We also need a **_Fediverse API_ for _search_**.
 
@@ -279,7 +279,7 @@ https://robin.live/
 
 <img src="decentralize-all-the-things.png" alt="Decentralize All The Things" style="width:400px;" />
 
-Now, although [RobinLive](https://robin.live/) exists – the idea is that there would be _multiple_ **search servers**.
+Now, although [RobinLive](https://robin.live/) exists – the idea is that there would be _multiple_ **search-servers**.
 
 And, not just RobinLive.
 
