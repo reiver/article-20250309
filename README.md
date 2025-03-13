@@ -294,19 +294,20 @@ RobinLive will be _one of many_.
 
 ## DeSo Search
 
+<img src="robinlive-deso-search.png" style="width:400px;" />
+
 If you were looking closely at the _previous_ RobinLive screen, you might have noticed that – in addition to showing results from the Fediverse – we were also showing results from Bluesky.
 
 We on the Fediverse have more in common with those on _other decentralized social-networks_ than the _centralized ones_.
 I don't think we are enemies.
 I think we are all fellow-travelers.
-We are all reacting to the same problems (with the Internet, the Web, and social-media) in a similar way — We are just choosing different technologies.
+We are all reacting to the same problems (with the Internet, the Web, and social-media) in a similar way — we are just choosing different technologies.
 
 I have my own opinions about the Tech.
 I have my own preferences.
 But –
 
 I want **the user** to **_not_ have to care about** _these differences_.
-
 
 -----
 
