@@ -3,8 +3,8 @@
 The best presentations _tell a story_ — this is a story of our journey **hosting the Fediverse** at [SpaceHost](https://spacehost.one):
 
 * What we tried first.
-* Why it failed.
-* How we solved it.
+* How & why that failed.
+* How we solved the problem.
 * And, an unexpected invention that could reshape the Social Web.
 
 If you care about the Fediverse, this is a story for you.
