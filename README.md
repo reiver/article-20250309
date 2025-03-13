@@ -198,17 +198,17 @@ Or, should we _tell them_ their _storage drive_ is filling up – and, _let them
 
 The challenge is – _clearing the cache_ affects _user-experience_.
 It can “break” search.
-It can "break" the home-feed.
+It can also "break" the home-feed.
 
 So –
 
------
+<img src="spacehost-email-alert.png" style="width:400px;" />
 
 At first – we decided to just _e-mail_ our _customers_ to _tell them_ that _their storage drives_ were _filling-up_ and _let then decide_.
 
 What we found-out was that –
 
-Most customers _seemed to never notice_ the _e-mail_ we sent them.
+**Most customers _seemed to never notice_ the _e-mail alert_ we sent them!**
 
 In hindsight, that _was not_ a good strategy.
 
