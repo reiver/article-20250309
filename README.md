@@ -108,13 +108,11 @@ As far as I know –
 * SpaceHost was **the second hosting-company in the Fediverse**, after Masto.Host, and
 * SpaceHost is **the first hosting-company in the Fediverse to _try to_ offer _all the (other) Fediverse software other than Mastodon_** –  although, we _also offer Mastodon_.
 
------
+## What Crashes Fediverse Servers
 
 We _learned_ a number of things from _our experience_ with hosting so many people’s _Fediverse servers_
 
 Here is **_one thing_ we learned** —
-
------
 
 We learned what _seems to be the **number 1 cause** of Fediverse servers crashing_.
 
