@@ -392,11 +392,11 @@ Here I am just made making RobinFeed search for `"fediverse house"`.
 
 I can also **filter-out** things by choosing `"Ad Filter"` –
 
------
+<img src="robinfeed-04.png" style="width:400px;" />
 
 But, I will leave that empty _for this demo_.
 
-(BTW, one upcoming filter we plan to add to RobinFeed is — the ability to detect and filter-out pornographic images. Something that can help make both _child-safe(r)_ and _work-safe(r)_ feeds.)
+(BTW, one upcoming filter we plan to add to RobinFeed is — the ability to detect and filter-out pornographic images. Something that can help people create both _child-safer_ and _work-safer_ feeds.)
 
 ## Bluesky Custom Feeds
 
