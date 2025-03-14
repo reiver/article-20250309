@@ -339,6 +339,8 @@ In fact — the technology for **real-time search** and **custom feeds** are rel
 
 ## What Are Feeds
 
+<img src="mastodon-custom-feeds.png" style="width:400px;" />
+
 The **feed** most people are probably familiar with is – the **home-feed**.
 
 On **Mastodon** – the _home-feed_ uses a **simple algorithm** – **reverse chron**.
