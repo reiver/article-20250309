@@ -379,7 +379,7 @@ There is a saying:
 
 So I am going to show you some of what RobinFeed is like – if you were to choose the `"By Search Terms"` button (in the previous screenshot), you would then see the following –
 
------
+<img src="robinfeed-02.png" style="width:400px;" />
 
 Here (in this screenshot), RobinFeed lets you choose what **search terms** you want to base your **custom feed** on.
 (Again, there are other ways of creating a _custom feed_, but — in this demo I am taking you through just one of them.)
