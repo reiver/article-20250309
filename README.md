@@ -386,7 +386,7 @@ Here (in this screenshot), RobinFeed lets you choose what **search terms** you w
 
 I can fill this form in as follows (in the following screenshot) to get the following –
 
------
+<img src="robinfeed-03.png" style="width:400px;" />
 
 Here I am just made making RobinFeed search for `"fediverse house"`.
 
