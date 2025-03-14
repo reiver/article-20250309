@@ -329,7 +329,7 @@ Thus – users **should not care** about _the differences between_ – the Fediv
 
 I also mentioned – **custom feeds**.
 
-I have been _talking about_ and _meme'ing about_ **Fediverse custom feeds** for a while.
+I have been _talking about_ and _meme'ing about_ **Fediverse custom feeds** for a while – and thinking about them _even longer_.
 
 <img src="custom-feeds.png" style="width:400px;" />
 
@@ -343,19 +343,25 @@ In fact — the technology for **real-time search** and **custom feeds** are rel
 
 The **feed** most people are probably familiar with is – the **home-feed**.
 
-On **Mastodon** – the _home-feed_ uses a **simple algorithm** – **reverse chron**.
-This (_reverse chron_) is what some people _inaccurately_ call – "**no algorithm**".
+On **Mastodon**, the _home-feed_ uses a **simple algorithm** – **reverse chron**.
+This (_reverse chron_) is what some people _inaccurately_ call "**_no algorithm_**".
 
-A **custom feed** lets you pick an **_alternative_ algorithm**.
-
+A **custom feed** lets you pick an **_alternative_ algorithm** to this.
 For example –
 
-What if – you wanted a _feed_ that _only showed_ posts from _people you follow_ _who do not post very often_.
-(This existed as a 3rd party apps for Twitter decades ago.)
+What if you wanted a _feed_ that – _only showed_ posts from _people you follow_ _who do not post very often_.
+(This was a 3rd party app for Twitter decades ago.)
 
-Or, what if – you want a _feed_ that _only shows_ posts from _mutuals_.
+What if you are a parent and want a _feed_ for you child that – shows posts from the people your child follows, but – removes all posts what contain pornographic images.
+
+What if you are a cat lover and follow a bunch of (other) people who post photos of cats but also post stuff unrelated to cats that you do not care about, and want a _feed_ that – _only shows_ posts from the _people you follow_ that includes a photo of a cat.
+
+What if you want a _feed_ – that _only shows_ posts from _mutuals_.
+
+What if you are a scholar, and you want a _feed_ that _only shows_ scholarly papers shared by people you follow.
 
 Or, what if – you wanted a _feed_ that _only shows_ posts THAT ARE POPULAR with people YOU FOLLOW
+
 
 Etc.
 
