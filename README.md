@@ -106,8 +106,7 @@ As far as I know –
 
 ## What Crashes Fediverse Servers
 
-We _learned_ a number of things from _our experience_ with hosting so many people’s _Fediverse servers_
-
+We _learned_ a number of things from _our experience_ with hosting so many people’s _Fediverse servers_.
 Here is **_one thing_ we learned** —
 
 We learned what _seems to be the **number 1 cause** of Fediverse servers crashing_ — including **Mastodon**, **Misskey**, **Pixelfed**, and every other type of Fediverse server.
