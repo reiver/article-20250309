@@ -361,7 +361,9 @@ Etc.
 
 ## Bluesky Custom Feeds
 
-We turned the _Fediverse results_ in [RobinFeed](https://robinfeed.com/) off just for now.
+<img src="robinfeed-preview.png" style="width:400px;" />
+
+We turned the _Fediverse results_ in [RobinFeed](https://robinfeed.com/) off, _just for now_.
 
 Pressing the _preview_ button currently only shows results from Bluesky
 
