@@ -365,7 +365,8 @@ Etc.
 
 We turned the _Fediverse results_ in [RobinFeed](https://robinfeed.com/) off, _just for now_.
 
-Pressing the _preview_ button currently only shows results from Bluesky
+Pressing the _preview_ button currently only shows results from Bluesky.
+(Although, by the time most people read this, **RobinFeed** **Fediverse custom feeds** may have been turned back on.)
 
 Again – Fediverse results are in the system.
 You can see them in the real-time search-engine – [RobinLive](https://robin.live/)
@@ -374,12 +375,10 @@ But –
 
 ## Fediverse Custom Feeds
 
-We need front-end application support for **Fediverse custom feeds**.
+The Fediverse needs front-end application support for **Fediverse custom feeds**.
+The Fediverse needs front-end application support for ActivtyPub `"Feed"` sub-actor-type (of `"Application"`).
 
-We need front-end application support for ActivtyPub actor-type "`Feed`".
-
-Which is some _more_ work I need to do.
-And, some conversations I need to have with other Fediverse developers.
+Which means – I have _more_ work I need to do, and I need to have more conversations with more Fediverse developers, to make this happen.
 
 And – I will end this here.
 
