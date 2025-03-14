@@ -383,10 +383,12 @@ But –
 
 ## Fediverse Custom Feeds
 
-The Fediverse needs front-end application support for **Fediverse custom feeds**.
-The Fediverse needs front-end application support for ActivtyPub `"Feed"` sub-actor-type (of `"Application"`).
+Before the Fediverse can have its own **custom feeds**, we need something from Fediverse developers – from the people who build the Fediverse.
 
-Which means – I have _more_ work I need to do, and I need to have more conversations with more Fediverse developers, to make this happen.
+The Fediverse needs front-end application support for **Fediverse custom feeds**, as a user-experience.
+The Fediverse needs front-end application support for ActivtyPub `"Feed"` sub-actor-type (of `"Application"`), as a way of encoding Fediverse custom feeds.
+
+Which means – I have _more_ work to do, and I need to have more conversations with more Fediverse developers, to make this happen.
 
 And – I will end this here.
 
