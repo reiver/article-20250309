@@ -344,9 +344,9 @@ In fact — the technology for **real-time search** and **custom feeds** are rel
 The **feed** most people are probably familiar with is – the **home-feed**.
 
 On **Mastodon** – the _home-feed_ uses a **simple algorithm** – **reverse chron**.
-This (_reverse chron_) is what some people _inaccurately_ call – **no algorithm**.
+This (_reverse chron_) is what some people _inaccurately_ call – "**no algorithm**".
 
-A **custom feed** lets you pick an **alternative algorithm**.
+A **custom feed** lets you pick an **_alternative_ algorithm**.
 
 For example –
 
