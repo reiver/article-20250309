@@ -365,7 +365,7 @@ Etc.
 
 ## Thank You
 
-Thank you for reading all that.
+Thank you for reading all of that.
 To summarize:
 
 You can try the real-time search-engine at:
@@ -390,4 +390,4 @@ If you would like to _talk to me more_ about any of this, or just want to _follo
 
 -----
 
-<mark>**Thank you** **Evan Prodromou** for letting me present at the **Developer Meetup** at the **Fediverse House** at **SXSW 2025**.</mark>
+<mark>**Thank you** [Evan Prodromou](https://cosocial.ca/@evan) for letting me present at the **Developer Meetup** at the **Fediverse House** at **SXSW 2025**.</mark>
