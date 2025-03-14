@@ -366,14 +366,14 @@ Etc.
 
 -----
 
-This is [RobinFeed](https://robinfeed.com/).
+This is [RobinFeed](https://robinfeed.com/) – **RobinFeed** is a **custom feed generator**.
 
-RobinFeed already has users — people are already using it.
+RobinFeed actually already has users — people are already using RobinFeed!
 
 Here (in the previous screenshot) are RobinFeed’s _current_ choices for creating a **custom feed**.
 (More options will be available in the future.)
 
-If you were to choose the `By Search Terms` button (in the previous screenshot), you would then see the following –
+If you were to choose the `"By Search Terms"` button (in the previous screenshot), you would then see the following –
 
 -----
 
