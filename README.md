@@ -22,7 +22,7 @@ I am **Charles Iliya Krempeaux**.
 
 I have been a **product leader**, an **engineering leader**, and a **founder**.
 
-But, let’s skip the long bio — here is _just one_ highlight from my career:
+But, I will skip the _long bio_ — here is _just one_ highlight from my career:
 
 **I was one of the first engineers** at **Hootsuite**
 —
@@ -41,11 +41,9 @@ And, from **engineering**, to **product**, to **enterprise**, and to **company**
 
 ## Me on the Fediverse
 
-Some of you might know _me_ from …
-
 <img src="reiver-mastodon-social.png" style="width:400px;" />
 
-… The Fediverse!
+Some of you might know _me_ from — **_The Fediverse_**!
 
 This is my [`@reiver@mastodon.social`](https://mastodon.social/@reiver) account.
 
@@ -61,7 +59,7 @@ For example…
 
 … GreatApe!
 
-**GreatApe** is a conversations platform for the Fediverse, and decentralized social-media.
+[GreatApe](http://greata.pe/) is a conversations platform for the Fediverse, and decentralized social-media.
 
 <img src="greatape-screenshot.jpeg" style="width:400px;" />
 
