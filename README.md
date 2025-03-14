@@ -365,6 +365,36 @@ Etc.
 
 ## RobinFeed
 
+-----
+
+This is [RobinFeed](https://robinfeed.com/).
+
+RobinFeed already has users — people are already using it.
+
+Here (in the previous screenshot) are RobinFeed’s _current_ choices for creating a **custom feed**.
+(More options will be available in the future.)
+
+If you were to choose the `By Search Terms` button (in the previous screenshot), you would then see the following –
+
+-----
+
+Here (in this screenshot), RobinFeed lets you choose what **search terms** you want to base your **custom feed** on.
+(Again, there are other ways of creating a _custom feed_, but — in this demo I am taking you through just one of them.)
+
+I can fill this form in as follows (in the following screenshot) to get the following –
+
+-----
+
+Here I am just made making RobinFeed search for `"fediverse house"`.
+
+I can also **filter-out** things by choosing `"Ad Filter"` –
+
+-----
+
+But, I will leave that empty _for this demo_.
+
+(BTW, one upcoming filter we plan to add to RobinFeed is — the ability to detect and filter-out pornographic images.)
+
 ## Bluesky Custom Feeds
 
 <img src="robinfeed-preview.png" style="width:400px;" />
