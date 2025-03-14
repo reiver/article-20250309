@@ -364,7 +364,7 @@ Etc.
 
 ## RobinFeed
 
------
+<img src="robinfeed-01.png" style="width:400px;" />
 
 This is [RobinFeed](https://robinfeed.com/) – **RobinFeed** is a **custom feed generator**.
 
@@ -373,7 +373,11 @@ RobinFeed actually already has users — people are already using RobinFeed!
 Here (in the previous screenshot) are RobinFeed’s _current_ choices for creating a **custom feed**.
 (More options will be available in the future.)
 
-If you were to choose the `"By Search Terms"` button (in the previous screenshot), you would then see the following –
+There is a saying:
+
+> Show, don't tell.
+
+So I am going to show you some of what RobinFeed is like – if you were to choose the `"By Search Terms"` button (in the previous screenshot), you would then see the following –
 
 -----
 
