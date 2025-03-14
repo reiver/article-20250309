@@ -396,7 +396,7 @@ I can also **filter-out** things by choosing `"Ad Filter"` –
 
 But, I will leave that empty _for this demo_.
 
-(BTW, one upcoming filter we plan to add to RobinFeed is — the ability to detect and filter-out pornographic images.)
+(BTW, one upcoming filter we plan to add to RobinFeed is — the ability to detect and filter-out pornographic images. Something that can help make both _child-safe(r)_ and _work-safe(r)_ feeds.)
 
 ## Bluesky Custom Feeds
 
