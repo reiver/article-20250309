@@ -244,7 +244,7 @@ But back to **search** –
 
 Because no **Fediverse software** uses this **search API** yet –
 
-We created a **real-time search-engine** so you can see it _in action_.
+We created a **real-time search-engine** (named [RobinLive](https://robin.live/)) so you can see it _in action_.
 
 <img src="robinlive-example.png" style="width:400px;" />
 
@@ -261,7 +261,7 @@ Now, although [RobinLive](https://robin.live/) exists – the idea is that there
 And, not just RobinLive.
 
 That is right – **let's decentralize them**.
-**Let's decentralized search**.
+**Let's decentralize search**!
 
 RobinLive will be _one of many_.
 
@@ -329,7 +329,7 @@ For example –
 What if you wanted a _feed_ that – _only showed_ posts from _people you follow_ _who do not post very often_.
 (This was a 3rd party app for Twitter decades ago.)
 
-What if you are a parent and want a _feed_ for you child that – shows posts from the people your child follows, but – removes all posts what contain pornographic images.
+What if you are a parent and want a _feed_ for you child that – shows posts from the people your child follows, but – removes all posts that contain pornographic images.
 
 What if you are a cat lover and follow a bunch of (other) people who post photos of cats but also post stuff unrelated to cats that you do not care about, and want a _feed_ that – _only shows_ posts from the _people you follow_ that includes a photo of a cat.
 
