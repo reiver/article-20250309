@@ -44,8 +44,7 @@ And, from **engineering**, to **product**, to **enterprise**, and to **company**
 <img src="reiver-mastodon-social.png" style="width:400px;" />
 
 Some of you might know _me_ from — **_The Fediverse_**!
-
-This is my [`@reiver@mastodon.social`](https://mastodon.social/@reiver) account.
+From my [`@reiver@mastodon.social`](https://mastodon.social/@reiver) account.
 
 Where I talk **a lot** about — _you guessed it_ — **the Fediverse**.
 I _also_ talk about _other_ **decentralized social-media** (**DeSo**) — including **Bluesky**, **Farcaster**, **Nostr**, and others.
