@@ -134,7 +134,6 @@ Some of you might ask —
 Those are both _good questions_ 🙂
 
 **Caching** is a _technical term_ — in _computer science_, _computer hardware engineering_, and _software engineering_.
-
 It (caching) basically means — **temporarily storing things**.
 
 So, _what_ is being _temporarily stored_?
