@@ -114,26 +114,7 @@ Before you read what that is – guess to yourself what _you think_ it might be.
 
 (**Scroll down once you have your guess.**)
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
+<img src="mastodon-lifting-a-dreamer.png" style="width:400px;" />
 
 Here is the answer —
 
