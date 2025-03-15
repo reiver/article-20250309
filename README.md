@@ -228,6 +228,7 @@ We need to make it so **accumulating user-data** doesn’t **crash** the **back-
 In fact – multiple **back-end servers** could **share** the same **search-server** to _reduce costs_.
 
 We also need a **_Fediverse API_ for _search_**.
+(More on that in a future article.)
 
 Here is the thing – **we already built a lot of it**.
 
