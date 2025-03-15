@@ -331,14 +331,13 @@ What if you wanted a _feed_ that – _only showed_ posts from _people you follow
 
 What if you are a parent and want a _feed_ for you child that – shows posts from the people your child follows, but – removes all posts that contain pornographic images.
 
-What if you are a cat lover and follow a bunch of (other) people who post photos of cats but also post stuff unrelated to cats that you do not care about, and want a _feed_ that – _only shows_ posts from the _people you follow_ that includes a photo of a cat.
-
 What if you want a _feed_ – that _only shows_ posts from _mutuals_.
+
+What if you are a cat lover and follow a bunch of (other) people who post photos of cats but also post stuff unrelated to cats that you do not care about, and want a _feed_ that – _only shows_ posts from the _people you follow_ that includes a photo of a cat.
 
 What if you are a scholar, and you want a _feed_ that _only shows_ scholarly papers shared by people you follow.
 
-Or, what if – you wanted a _feed_ that _only shows_ posts THAT ARE POPULAR with people YOU FOLLOW
-
+What if you use your community as a human-powered recommendation engine, and want a feed that – shows popular posts and links drawn from the various communities you are in.
 
 Etc.
 
